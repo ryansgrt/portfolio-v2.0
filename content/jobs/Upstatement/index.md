@@ -1,12 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2023-06-14'
+title: 'Web Developer'
+company: 'Frostbyte Project'
+location: 'Jakarta, ID'
+range: 'Dec 2022 - Present'
+url: 'https://www.xlaxiata.co.id/id'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Develop custom WordPress themes and templates based on client requirements and design specifications.
+- Customize existing WordPress themes and plugins to meet client needs, ensuring a seamless integration of functionality and design.
+- Implement responsive web design techniques to ensure optimal user experience across devices and screen sizes.
+- Optimize website performance by implementing caching mechanisms, optimizing images, and minimizing page load times.
